@@ -1,0 +1,1 @@
+The “PyPassword Generator” is a Python script that generates a random password based on user preferences. It prompts the user to specify the desired number of letters, symbols, and numbers. The script then constructs a password by randomly selecting characters from predefined lists. Finally, it shuffles the characters to create a secure password.
